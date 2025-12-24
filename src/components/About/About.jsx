@@ -27,12 +27,12 @@ const About = () => {
 
           {/* About Me Paragraph */}
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
-            I am an app developer building scalable web applications.
-            Skilled in both front-end and back-end development.
+            I am an app developer building scalable web applications. Skilled in
+            both front-end and back-end development.
           </p>
           {/* Resume Button */}
           <a
-            href="https://drive.google.com/file/d/1RL-wm8PKjiIzBQbGRqCeEr1LsvaTDtDj/view?usp=sharing"
+            href="https://drive.google.com/file/d/1BzhnMTFxFxcYcrQ7NfVi_ZLwsRzI5ME4/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scale-105"
