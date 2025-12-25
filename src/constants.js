@@ -92,7 +92,7 @@ export const education = [
     img: clgLogo,
     school: "VPMM ENGINNERING COLLEGE FOR WOMEN",
     date: "June 2010 - April 2014",
-    grade: "8.185 CGPA",
+    grade: "7.695 CGPA",
     desc: "I have completed my Bachelor's degree (BE) in Computer Applications from VPMM Engineering college for women, KrishnanKovil. During my time at VPMM, I gained a strong foundation in programming, software development, and computer science principles. I actively participated in various workshops, conference and technical events, which enhanced my skills and knowledge.",
     degree: "Bachelor of Engineering in Computer Applications - B.E",
   },
